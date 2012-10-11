@@ -11,7 +11,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Don's Whisper</string>
+	<string>Small Whisper</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleSignature</key>
@@ -19,7 +19,7 @@
 	<key>CFBundleVersion</key>
 	<string>324445</string>
 	<key>CFBundleDisplayName</key>
-	<string>Don's Whisper 1.0 (2.3) </string>
+	<string>Small Whisper 1.0 (2.3) </string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 </dict>

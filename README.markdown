@@ -1,4 +1,4 @@
-Don's Whisper theme
+Small Whisper theme
 =============
 
 Based on the Whisper Theme 2.3

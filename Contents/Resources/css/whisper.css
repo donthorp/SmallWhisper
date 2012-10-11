@@ -177,7 +177,8 @@ body.normal .sender {
     float: left;
     text-align: right;
     font-weight: bold;
-    width: 130px;
+	font-size: 80%;
+    width: 75px;
     overflow: hidden;
 }
 
@@ -201,7 +202,7 @@ body.normal .sender[type=consecutive][starred=true]:before {
 }
 
 body.normal .line .message {
-    margin: 0 0 0 134px;
+    margin: 0 0 0 79px;
     padding: 0.4em;
     color: #303030;
     border-left: 1px solid #dcdcdc;
@@ -237,6 +238,7 @@ body.normal .line .time {
     margin-left: 4px;
     color: #999;
     -webkit-user-select: none;
+	font-size: 80%;
     font-weight: bold;
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
@@ -257,7 +259,7 @@ body.normal .event .time {
 
  body.normal .line[type=action] .sender[starred=true] {
     background-color: #BDEFBC;
-    width: 134px;
+    width: 79px;
 }
 
 body.normal .line span.message[starred=true] {
@@ -332,13 +334,13 @@ body.normal .line[type=action] .sender {
 body.normal .line[highlight=true][type=action] .sender {
     font-style: italic;
     background-color: #ffc;
-    width: 134px;
+    width: 79px;
 }
 
 body.normal .line[type=action] .message {
     background: #eee;
     border-left: none;
-    margin: 0 0 0 134px;
+    margin: 0 0 0 79px;
 }
 
 body.normal .url {
